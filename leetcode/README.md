@@ -10,3 +10,5 @@
 |326|[Power of Three](./power-of-three.cpp)
 |342|[Power of Four](./power-of-four.cpp)
 |70|[Climbing Stairs](./climbing-stairs.cpp)
+|171|[Excel Sheet Column Number](./excel-sheet-column-number)
+|168|[Excel Sheet Column Title](./excel-sheet-column-title)
