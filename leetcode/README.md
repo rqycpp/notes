@@ -14,4 +14,6 @@
 |168|[Excel Sheet Column Title](./excel-sheet-column-title.cpp)
 |100|[Same Tree](./same-tree.cpp)
 |101|[Symmetric Tree](./symmetric-tree.cpp)
-|292|[Nim Game](./nim-game.cpp) 
+|292|[Nim Game](./nim-game.cpp)
+|104|[Maximum Depth of Binary Tree](./maximum-depth-of-binary-tree.cpp)
+|111|[Minimum Depth of Binary Tree }(./minimum-depth-of-binary-tree.cpp)
