@@ -14,3 +14,6 @@
 |168|[Excel Sheet Column Title](./excel-sheet-column-title.cpp)
 |100|[Same Tree](./same-tree.cpp)
 |101|[Symmetric Tree](./symmetric-tree.cpp)
+|263|[Ugly Number](./ugly-number.cpp)
+|264|[Ugly Number II](./ugly-number-ii.cpp)
+|313|[Super Ugly Number](./super-ugly-number.cpp)
