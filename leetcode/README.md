@@ -20,3 +20,5 @@
 |263|[Ugly Number](./ugly-number.cpp)
 |264|[Ugly Number II](./ugly-number-ii.cpp)
 |313|[Super Ugly Number](./super-ugly-number.cpp)
+|66|[Plus One](./plus-one.cpp)
+|283|[Move Zeroes](move-zeroes.cpp)
