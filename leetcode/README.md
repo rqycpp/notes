@@ -22,3 +22,5 @@
 |313|[Super Ugly Number](./super-ugly-number.cpp)
 |66|[Plus One](./plus-one.cpp)
 |283|[Move Zeroes](move-zeroes.cpp)
+|52|[Maximum Subarray](./maximum-subarray.cpp)
+|162|[Find Peak Element](./find-peak-element.cpp)
