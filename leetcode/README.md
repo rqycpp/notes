@@ -27,3 +27,5 @@
 |278|[First Bad Version](./first-bad-version.cpp)
 |374|[Guess Number Higher or Lower](./guess-number-higher-or-lower.cpp)
 |50|[Pow(x, n)](./powx-n.cpp)
+|7|[Reverse Integer](./reverse-integer.cpp)
+|27|[Remove Element](./remove-element.cpp)
