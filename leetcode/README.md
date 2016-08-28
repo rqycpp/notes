@@ -24,3 +24,6 @@
 |283|[Move Zeroes](move-zeroes.cpp)
 |52|[Maximum Subarray](./maximum-subarray.cpp)
 |162|[Find Peak Element](./find-peak-element.cpp)
+|278|[First Bad Version](./first-bad-version.cpp)
+|374|[Guess Number Higher or Lower](./guess-number-higher-or-lower.cpp)
+|50|[Pow(x, n)](./powx-n.cpp)
