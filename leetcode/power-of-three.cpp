@@ -13,7 +13,7 @@ Special thanks to @dietpepsi for adding this problem and creating all test cases
 Hint:http://blog.csdn.net/ebowtang/article/details/50485622
 
 1. 3^x = n -> log3(n) = x, 已知n，当求得x是正整数时，n是3的整数次幂
-2. 或者用int范围内的最大的3的整数次幂作为被除数，除以n，若乘除则n是3的整数次幂
+2. 或者用int范围内的最大的3的整数次幂 作为被除数，除以n，若可以整除 则n是3的整数次幂
 3. 直接打表
  **********************************************************************************/
  class Solution { //采用方法1
