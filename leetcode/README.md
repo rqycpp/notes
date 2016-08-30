@@ -29,3 +29,6 @@
 |50|[Pow(x, n)](./powx-n.cpp)
 |7|[Reverse Integer](./reverse-integer.cpp)
 |27|[Remove Element](./remove-element.cpp)
+|55|[Jump Game](./jump-game.cpp)
+|389|[Find the Difference](./find-the-difference.cpp)
+|136|[Single Number](./single-number.cpp)
