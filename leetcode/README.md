@@ -32,3 +32,8 @@
 |55|[Jump Game](./jump-game.cpp)
 |389|[Find the Difference](./find-the-difference.cpp)
 |136|[Single Number](./single-number.cpp)
+|387|[First Unique Character in a String](./first-unique-character-in-a-string.cpp)
+|9|[Palindrome Number](./palindrome-number.cpp)
+|206|[Reverse Linked List](./reverse-linked-list.cpp)
+|234|[Palindrome Linked List](./palindrome-linked-list.cpp)
+|125|[Valid Palindrome](./valid-palindrome.cpp)
