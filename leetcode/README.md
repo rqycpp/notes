@@ -37,3 +37,4 @@
 |206|[Reverse Linked List](./reverse-linked-list.cpp)
 |234|[Palindrome Linked List](./palindrome-linked-list.cpp)
 |125|[Valid Palindrome](./valid-palindrome.cpp)
+|242|[Valid Anagram](./valid-anagram.cpp)
