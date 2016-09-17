@@ -44,3 +44,7 @@
 |83|[Remove Duplicates from Sorted List](./remove-duplicates-from-sorted-list.cpp)
 |129|[Sum Root to Leaf Numbers](./sum-root-to-leaf-numbers.cpp)
 |112|[Path Sum](./problems/path-sum.cpp)
+|121|[Best Time to Buy and Sell Stock](./best-time-to-buy-and-sell-stock.cpp)
+|122|[Best Time to Buy and Sell Stock II](./best-time-to-buy-and-sell-stock-ii.cpp)
+|141|[Linked List Cycle](./linked-list-cycle.cpp)
+|142|[Linked List Cycle II](./linked-list-cycle-ii.cpp)
