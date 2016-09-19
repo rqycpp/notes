@@ -48,3 +48,7 @@
 |122|[Best Time to Buy and Sell Stock II](./best-time-to-buy-and-sell-stock-ii.cpp)
 |141|[Linked List Cycle](./linked-list-cycle.cpp)
 |142|[Linked List Cycle II](./linked-list-cycle-ii.cpp)
+|26|[Remove Duplicates from Sorted Array](./remove-duplicates-from-sorted-array.cpp)
+|345|[Reverse Vowels of a String](./reverse-vowels-of-a-string.cpp)
+|349|[Intersection of Two Arrays](./intersection-of-two-arrays.cpp)
+|350|[Intersection of Two Arrays II](./intersection-of-two-arrays-ii.cpp)
