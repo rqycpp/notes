@@ -43,4 +43,7 @@
 |203|[Remove Linked List Elements](./remove-linked-list-elements.cpp)
 |83|[Remove Duplicates from Sorted List](./remove-duplicates-from-sorted-list.cpp)
 |129|[Sum Root to Leaf Numbers](./sum-root-to-leaf-numbers.cpp)
-|112|[Path Sum](./problems/path-sum.cpp)
+|112|[Path Sum](./path-sum.cpp)
+|372|[Super Pow](./super-pow.cpp)
+|110|[Balanced Binary Tree](./balanced-binary-tree.cpp)
+|235|[Lowest Common Ancestor of a Binary Search Tree](./lowest-common-ancestor-of-a-binary-search-tree.cpp)
