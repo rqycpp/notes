@@ -55,3 +55,6 @@
 |345|[Reverse Vowels of a String](./reverse-vowels-of-a-string.cpp)
 |349|[Intersection of Two Arrays](./intersection-of-two-arrays.cpp)
 |350|[Intersection of Two Arrays II](./intersection-of-two-arrays-ii.cpp)
+|28|[Implement strStr()](./implement-strstr.cpp)
+|67|[Add Binary](./add-binary.cpp)
+|2|[Add Two Numbers](./add-two-numbers.cpp)
