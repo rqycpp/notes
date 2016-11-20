@@ -5,3 +5,7 @@
 |scrot|屏幕截图工具|
 |iconv|文件编码转换工具|
 |GParted|硬盘分区软件|
+|kompare|查看文本差异工具|
+|meld|查看文本差异工具|
+|shutter|可视化屏幕截图工具|
+|unar|解压工具|
