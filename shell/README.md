@@ -16,3 +16,9 @@
 |convert|图片格式转换&处理工具|
 |identify|图片特征描述工具|
 |stat|显示文件或文件系统状态|
+|keepassx|密码管理工具|
+|polipo|轻量级的缓存web代理服务|
+|proxychains|代理工具|
+|lynx|文本模式浏览器|
+|iftop|显示主机某一端口的带宽使用情况|
+|speedometer|测量并显示网络链接的数据传输速率|
